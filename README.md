@@ -18,7 +18,7 @@ Brototype, Kochi
 
 Working mainly on Backend node.js ,react.js MongoDB and their frameworks
 
-Working mainly on Backend node.js ,react.js MongoDB and their frameworks.
+
 Quality experience in developing web applications using modern backend development technologies such as Node.js, Express.js, MongoDB, NoSQL, SQL, PostgreSQL, Ajax, Axios, JQuery, FireBase.
 Well-versed in modern web development technologies including React.js, Redux, Next.js, JavaScript, HTML5, CSS, Bootstrap, Handlebars.js (hbs), EJS.
 Proficient in RESTful API design and implementation.
