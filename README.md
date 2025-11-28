@@ -13,7 +13,9 @@ collage of engineering pathnapuram
 07/2016 - 10/2020
 Work Experience 
 Mern Stack Developer
-Brototype, Kochi
+Brototype,
+Luminar techmolab 
+Kochi
 10/2022 - Present
 
 Working mainly on Backend node.js ,react.js MongoDB and their frameworks
